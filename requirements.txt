@@ -2,4 +2,6 @@ discord.py
 Pillow
 aiohttp
 python-dotenv
+pymongo
+dnspython
 Flask
